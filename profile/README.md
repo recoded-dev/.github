@@ -1,5 +1,5 @@
 ## Recoded
-> Create cutting-edge websites with modern techniques
+We create cutting-edge websites with modern techniques
 
 <!--
 
